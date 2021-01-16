@@ -111,7 +111,7 @@ def tip():
     global tip_count
     tip_count = tip_count + 1
     #print(tip_count * bucket_vol)
-while time.time() <= rain_time: #runs code for 14'50"
+while time.time() <= rain_time: #runs code for 15 min
     tip_sensor.when_pressed = tip
 rainfall = round(tip_count * bucket_vol,2)
 
