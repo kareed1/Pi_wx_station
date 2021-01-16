@@ -1,0 +1,2 @@
+*/15 * * * * sudo python3 /media/pi/.../FinalSensorScript2b.py #runs script every 15 min
+0 0 * * * >/var/mail/PiName #remove mail in this directory that is created by running the wx script cronjob - runs daily at 12 AM
