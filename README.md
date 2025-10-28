@@ -11,5 +11,3 @@ Parts of code borrowed from https://projects.raspberrypi.org/en/projects/build-y
 
 Sensors: BME280 (temp, humidity, pressure), DS18b20 (soil temp), Argent Data System Wind/Rain Sensor Assembly (wind direction/speed and rainfall).
 In the recent update (8/30/2021), soil temperature was removed.
-
-![kareed1's GitHub Banner](https://raw.githubusercontent.com/kareed1/kareed1/main/banner.png)
